@@ -25,7 +25,6 @@ def recursive_binary_search(sorted_list,left,right,key):
   else:
     return 0
 
-res = recursive_binary_search(sorted_list=[1,2,3],left=0,right=len([1,2,3])-1,key=2)
-print(res)
+
 
 
