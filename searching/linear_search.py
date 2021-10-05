@@ -6,4 +6,4 @@ def linear_search(search_list,key):
 
 
 
-print(linear_search([1,4,5],6))
+
