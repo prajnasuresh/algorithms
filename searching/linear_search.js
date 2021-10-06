@@ -1,4 +1,4 @@
-const linear_search = (array,key)=>{
+ const linear_search = (array,key)=>{
     
     for(let i =0;i<array.length;i++){
         if(array[i]===key){
@@ -7,5 +7,3 @@ const linear_search = (array,key)=>{
     }
   return 0;
 }
-
-
