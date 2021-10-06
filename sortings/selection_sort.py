@@ -1,6 +1,3 @@
-#Selection Sort
-
-
 
 def selection_sort(unsorted_array):
 
@@ -15,5 +12,11 @@ def selection_sort(unsorted_array):
             unsorted_array[i],unsorted_array[min_index] = unsorted_array[min_index],unsorted_array[i]
 
     print(unsorted_array)
-    
-  
+
+
+
+
+
+
+
+
