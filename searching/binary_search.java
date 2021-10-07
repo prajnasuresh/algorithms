@@ -1,5 +1,3 @@
-import java.io.*;
-
 class search{
     public int binarySearch(int[] arr,int x,int left,int right){
         while(left<=right){
@@ -14,7 +12,7 @@ class search{
         return -1;
     }
 }
-class binarySearch{
+public class binary_search{
 	public static void main (String[] args) {
 		int[] arr = {1,3,6,7,9,50,99,1000,1563,2000};
 		int n = arr.length, x = 1000;
