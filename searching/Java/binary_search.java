@@ -1,3 +1,4 @@
+package searching.Java;
 class search{
     public int binarySearch(int[] arr,int x,int left,int right){
         while(left<=right){
